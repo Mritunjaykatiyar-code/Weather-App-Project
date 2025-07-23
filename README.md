@@ -17,5 +17,9 @@ It fetches real-time weather data using a free Weather API  and displays tempera
 - **JavaScript (ES6)** – API calls, DOM manipulation, and logic  
 - **Weather API** – e.g., OpenWeatherMap for live data
 
+## 🌐 Hosting
 
+| Platform       | Type           | Live Link |
+|----------------|----------------|-----------|
+| **Netlify**    | Static Hosting | [https://gentle-basbousa-fb0fc1.netlify.app/]
 
